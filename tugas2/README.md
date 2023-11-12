@@ -12,7 +12,7 @@
 
 ## Progres Riset
 
-**Topik penelitian**
+### Topik penelitian
 
 Pengembangan game edukasi untuk meningkatkan kesadaran kesehatan mental mahasiswa menggunakan unity.
 
