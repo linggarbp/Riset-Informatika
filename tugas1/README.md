@@ -2,34 +2,34 @@
 
 ## Topik Penelitian
 
-Pengembangan game edukasi untuk meningkatkan keterampilan berpikir kritis dengan pembelajaran yang kolaboratif.
+Pengembangan game edukasi untuk meningkatkan kesadaran kesehatan mental mahasiswa menggunakan unity.
 
 ### Persoalaan Praktis
 
 <div style='text-align: justify;'>
-Game edukasi adalah permainan yang dirancang untuk membantu siswa belajar dengan cara yang menyenangkan dan interaktif. Game edukasi dapat membantu siswa memahami konsep-konsep yang sulit dengan cara yang lebih mudah dan menyenangkan. Selain itu, game edukasi juga dapat membantu meningkatkan keterampilan berpikir kritis, kreativitas, dan kemampuan bahasa siswa. Terdapat beberapa jenis game edukasi, seperti game yang menantang, game yang memerlukan kerja sama, dan game yang memerlukan refleksi. Setiap jenis game memiliki karakteristik dan tujuan yang berbeda-beda. Misalnya, game edukasi yang menantang dapat membantu siswa mengembangkan keterampilan berpikir kritis dan analitis, sementara game edukasi yang memerlukan kerja sama dapat membantu meningkatkan kemampuan siswa dalam bekerja sama dengan orang lain. Namun, terdapat beberapa persoalan praktis dalam pengembangan game edukasi. Beberapa persoalan praktis tersebut antara lain strategi pengembangan game yang efektif dalam meningkatkan keterampilan berpikir kritis dan memfasilitasi pembelajaran kolaboratif. Untuk mengatasi persoalan praktis ini, beberapa metode penelitian dapat digunakan, seperti penelitian eksperimen, penelitian kualitatif, atau penelitian survei.
+Penelitian ini bertujuan untuk mengembangkan game edukasi yang dapat meningkatkan kesadaran kesehatan mental mahasiswa dengan menggunakan Unity. Game edukasi ini akan dirancang untuk membantu mahasiswa memahami dan mengatasi masalah kesehatan mental yang mungkin mereka hadapi selama masa kuliah. Dalam penelitian ini, kami akan memfokuskan pada pengembangan game edukasi yang dapat membantu mahasiswa memahami dan mengatasi masalah kesehatan mental yang mungkin mereka hadapi selama masa kuliah. Kami akan menggunakan Unity sebagai platform pengembangan game karena platform ini memiliki banyak fitur dan kemampuan yang dapat membantu kami mencapai tujuan kami. Selain itu, kami juga akan melakukan penelitian tentang masalah kesehatan mental yang sering dihadapi oleh mahasiswa dan bagaimana game edukasi dapat membantu mereka mengatasi masalah tersebut. Dengan demikian, penelitian ini diharapkan dapat memberikan kontribusi yang signifikan dalam meningkatkan kesadaran kesehatan mental mahasiswa dan membantu mereka mengatasi masalah kesehatan mental yang mungkin mereka hadapi selama masa kuliah.
 </div>
 
 ### Research Questions
 
 Berikut beberapa research questions yang dapat diidentifikasi:
 
-1. Bagaimana pengembangan game edukasi yang menantang dapat meningkatkan keterampilan berpikir kritis siswa?
+1. Apa saja masalah kesehatan mental yang sering dihadapi oleh mahasiswa?
 
-2. Bagaimana pengembangan game edukasi yang memerlukan kerja sama dapat meningkatkan keterampilan berpikir kritis siswa?
+2. Apa saja fitur dan kemampuan yang harus dimiliki oleh game edukasi untuk meningkatkan kesadaran kesehatan mental mahasiswa?
 
-3. Bagaimana pengembangan game edukasi yang memerlukan refleksi dapat meningkatkan keterampilan berpikir kritis siswa?
+3. Bagaimana game edukasi dapat membantu mahasiswa mengatasi masalah kesehatan mental yang mungkin mereka hadapi selama masa kuliah?
 
-4. Bagaimana penggunaan game edukasi dengan tujuan bersama dapat memfasilitasi pembelajaran kolaboratif?
+4. Bagaimana cara mengukur efektivitas game edukasi dalam meningkatkan kesadaran kesehatan mental mahasiswa?
 
-5. Bagaimana penggunaan game edukasi dengan tugas-tugas terstruktur dapat memfasilitasi pembelajaran kolaboratif?
+5. Bagaimana cara membuat game edukasi yang menarik dan interaktif untuk meningkatkan kesadaran kesehatan mental mahasiswa?
 
 ### Teori Keterkaitan
 
-1. **Teori Pembelajaran Konstruktivis:** Teori ini menyatakan bahwa siswa membangun pengetahuan mereka sendiri melalui pengalaman dan refleksi. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa dapat membangun pengetahuan mereka sendiri melalui pengalaman bermain game dan refleksi atas pengalaman tersebut.
+1. **Teori Pembelajaran:** Teori ini dapat membantu memahami bagaimana mahasiswa belajar dan bagaimana mereka dapat memperoleh pengetahuan baru. Dalam pengembangan game edukasi, teori ini dapat membantu Anda merancang game yang dapat membantu mahasiswa memperoleh pengetahuan baru tentang kesehatan mental.
 
-2. **Teori Flow:** Teori ini menyatakan bahwa seseorang akan merasa bahagia dan puas ketika mereka terlibat dalam aktivitas yang menantang namun masih dapat diatasi. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa akan merasa bahagia dan puas ketika mereka terlibat dalam game edukasi yang menantang namun masih dapat diatasi.
+2. **Teori Flow:** Teori Flow dapat membantu merancang game yang dapat membantu mahasiswa memahami dan mengatasi masalah kesehatan mental yang mungkin mereka hadapi selama masa kuliah. Dengan mempertimbangkan bagaimana cara menciptakan flow dalam game edukasi sehingga mahasiswa dapat merasa nyaman dan fokus saat bermain game. Selain itu, juga dapat mempertimbangkan bagaimana cara mengukur efektivitas game edukasi dalam menciptakan flow dan meningkatkan kesadaran kesehatan mental mahasiswa
 
-3. **Teori Kognitif:** Teori ini menyatakan bahwa siswa belajar melalui pengolahan informasi yang terjadi dalam otak mereka. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa belajar melalui pengolahan informasi yang terjadi saat mereka bermain game edukasi.
+3. **Teori Kognitif:** Teori ini dapat membantu memahami bagaimana mahasiswa memproses informasi dan belajar. Dalam pengembangan game edukasi, teori ini dapat membantu Anda merancang game yang dapat membantu mahasiswa memahami dan mengatasi masalah kesehatan mental yang mungkin mereka hadapi selama masa kuliah.
 
-4. **Teori Pembelajaran Kolaboratif:** Teori ini menyatakan bahwa siswa belajar lebih baik ketika mereka bekerja sama dalam kelompok. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa dapat belajar lebih baik ketika mereka bermain game edukasi bersama-sama dengan teman-teman mereka.
+4. **Teori Psikologi:** Teori ini dapat membantu memahami bagaimana mahasiswa berpikir dan merespons situasi tertentu. Dalam pengembangan game edukasi, teori ini dapat membantu Anda merancang game yang dapat membantu mahasiswa mengatasi masalah kesehatan mental yang mungkin mereka hadapi selama masa kuliah.
