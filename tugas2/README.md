@@ -1,35 +1,32 @@
-# Tugas 2: Metode dan Metodologi Penelitian
+# Tugas 2: Metode & Metodologi Penelitian
 
-## Metode Penelitian
+## Contoh Paper
 
-Pengembangan game edukasi untuk meningkatkan keterampilan berpikir kritis dengan pembelajaran yang kolaboratif.
+**Metode**
 
-### Persoalaan Praktis
+[WHEAT DISEASE DETECTION BY USING IMAGE PROCESSING 
+](https://media.neliti.com/media/publications/428632-none-8b18bf3c.pdf)
 
-<div style='text-align: justify;'>
-Game edukasi adalah permainan yang dirancang untuk membantu siswa belajar dengan cara yang menyenangkan dan interaktif. Game edukasi dapat membantu siswa memahami konsep-konsep yang sulit dengan cara yang lebih mudah dan menyenangkan. Selain itu, game edukasi juga dapat membantu meningkatkan keterampilan berpikir kritis, kreativitas, dan kemampuan bahasa siswa. Terdapat beberapa jenis game edukasi, seperti game yang menantang, game yang memerlukan kerja sama, dan game yang memerlukan refleksi. Setiap jenis game memiliki karakteristik dan tujuan yang berbeda-beda. Misalnya, game edukasi yang menantang dapat membantu siswa mengembangkan keterampilan berpikir kritis dan analitis, sementara game edukasi yang memerlukan kerja sama dapat membantu meningkatkan kemampuan siswa dalam bekerja sama dengan orang lain. Namun, terdapat beberapa persoalan praktis dalam pengembangan game edukasi. Beberapa persoalan praktis tersebut antara lain strategi pengembangan game yang efektif dalam meningkatkan keterampilan berpikir kritis dan memfasilitasi pembelajaran kolaboratif. Untuk mengatasi persoalan praktis ini, beberapa metode penelitian dapat digunakan, seperti penelitian eksperimen, penelitian kualitatif, atau penelitian survei.
-</div>
+**Metodologi**
 
-### Research Questions
+[A High Performance Wheat Disease Detection Based on Position Information](https://pubmed.ncbi.nlm.nih.gov/36904051/)
 
-Berikut beberapa research questions yang dapat diidentifikasi:
+## Progres Riset
 
-1. Bagaimana pengembangan game edukasi yang menantang dapat meningkatkan keterampilan berpikir kritis siswa?
+**Topik penelitian**
 
-2. Bagaimana pengembangan game edukasi yang memerlukan kerja sama dapat meningkatkan keterampilan berpikir kritis siswa?
+Pengembangan game edukasi untuk meningkatkan kesadaran kesehatan mental mahasiswa menggunakan unity.
 
-3. Bagaimana pengembangan game edukasi yang memerlukan refleksi dapat meningkatkan keterampilan berpikir kritis siswa?
+**Metode**
 
-4. Bagaimana penggunaan game edukasi dengan tujuan bersama dapat memfasilitasi pembelajaran kolaboratif?
+Untuk penelitian ini, dapat menggunakan metode penelitian kualitatif dengan pendekatan studi kasus. Metode ini dapat membantu Anda memahami secara mendalam tentang bagaimana game edukasi dapat membantu meningkatkan kesadaran kesehatan mental mahasiswa menggunakan Unity. Melakukan wawancara dengan mahasiswa dan ahli kesehatan mental untuk memperoleh informasi tentang masalah kesehatan mental yang sering dihadapi oleh mahasiswa dan bagaimana game edukasi dapat membantu mereka mengatasi masalah tersebut. Selain itu, juga dapat melakukan observasi terhadap mahasiswa yang bermain game edukasi untuk memperoleh informasi tentang efektivitas game edukasi dalam meningkatkan kesadaran kesehatan mental mahasiswa.
 
-5. Bagaimana penggunaan game edukasi dengan tugas-tugas terstruktur dapat memfasilitasi pembelajaran kolaboratif?
+**Metodologi**
 
-### Teori Keterkaitan
+1. Studi Literatur: Melakukan studi literatur tentang masalah kesehatan mental yang sering dihadapi oleh mahasiswa dan bagaimana game edukasi dapat membantu mereka mengatasi masalah tersebut.
 
-1. **Teori Pembelajaran Konstruktivis:** Teori ini menyatakan bahwa siswa membangun pengetahuan mereka sendiri melalui pengalaman dan refleksi. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa dapat membangun pengetahuan mereka sendiri melalui pengalaman bermain game dan refleksi atas pengalaman tersebut.
+2. Wawancara: Melakukan wawancara dengan mahasiswa dan ahli kesehatan mental untuk memperoleh informasi tentang masalah kesehatan mental yang sering dihadapi oleh mahasiswa dan bagaimana game edukasi dapat membantu mereka mengatasi masalah tersebut.
 
-2. **Teori Flow:** Teori ini menyatakan bahwa seseorang akan merasa bahagia dan puas ketika mereka terlibat dalam aktivitas yang menantang namun masih dapat diatasi. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa akan merasa bahagia dan puas ketika mereka terlibat dalam game edukasi yang menantang namun masih dapat diatasi.
+3. Observasi: Melakukan observasi terhadap mahasiswa yang bermain game edukasi untuk memperoleh informasi tentang efektivitas game edukasi dalam meningkatkan kesadaran kesehatan mental mahasiswa.
 
-3. **Teori Kognitif:** Teori ini menyatakan bahwa siswa belajar melalui pengolahan informasi yang terjadi dalam otak mereka. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa belajar melalui pengolahan informasi yang terjadi saat mereka bermain game edukasi.
-
-4. **Teori Pembelajaran Kolaboratif:** Teori ini menyatakan bahwa siswa belajar lebih baik ketika mereka bekerja sama dalam kelompok. Dalam konteks game edukasi, teori ini menunjukkan bahwa siswa dapat belajar lebih baik ketika mereka bermain game edukasi bersama-sama dengan teman-teman mereka.
+4. Analisis Data: Menganalisis data yang telah diperoleh dari studi literatur, wawancara, dan observasi untuk memperoleh informasi tentang masalah kesehatan mental yang sering dihadapi oleh mahasiswa dan bagaimana game edukasi dapat membantu mereka mengatasi masalah tersebut. Selain itu, Anda juga dapat menganalisis data untuk memperoleh informasi tentang efektivitas game edukasi dalam meningkatkan kesadaran kesehatan mental mahasiswa.
