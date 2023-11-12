@@ -4,12 +4,11 @@
 
 **Metode**
 
-[WHEAT DISEASE DETECTION BY USING IMAGE PROCESSING 
-](https://media.neliti.com/media/publications/428632-none-8b18bf3c.pdf)
+[PENGEMBANGAN GAME EDUKASI MENGGUNAKAN UNITY 3D BERDISIPLIN BERSEPEDA DI JALAN RAYA PADA ANAK USIA 8-11 TAHUN](https://core.ac.uk/download/pdf/78033201.pdf)
 
 **Metodologi**
 
-[A High Performance Wheat Disease Detection Based on Position Information](https://pubmed.ncbi.nlm.nih.gov/36904051/)
+[PERANCANGAN BOARD GAME EDUKATIF UNTUK MENINGKATKAN LITERASI KESEHATAN MENTAL BAGI PEMAINNYA](https://ojs.uph.edu/index.php/KOMA-DKV/article/download/3065/pdf)
 
 ## Progres Riset
 
