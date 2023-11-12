@@ -16,14 +16,13 @@
 
 Pengembangan game edukasi untuk meningkatkan kesadaran kesehatan mental mahasiswa menggunakan unity.
 
-**Metode**
+### Metode
 
 <div style='text-align: justify;'>
 Untuk penelitian ini, dapat menggunakan metode penelitian kualitatif dengan pendekatan studi kasus. Metode ini dapat membantu Anda memahami secara mendalam tentang bagaimana game edukasi dapat membantu meningkatkan kesadaran kesehatan mental mahasiswa menggunakan Unity. Melakukan wawancara dengan mahasiswa dan ahli kesehatan mental untuk memperoleh informasi tentang masalah kesehatan mental yang sering dihadapi oleh mahasiswa dan bagaimana game edukasi dapat membantu mereka mengatasi masalah tersebut. Selain itu, juga dapat melakukan observasi terhadap mahasiswa yang bermain game edukasi untuk memperoleh informasi tentang efektivitas game edukasi dalam meningkatkan kesadaran kesehatan mental mahasiswa.
 </div>
 
-
-**Metodologi**
+### Metodologi
 
 1. **Studi Literatur:** Melakukan studi literatur tentang masalah kesehatan mental yang sering dihadapi oleh mahasiswa dan bagaimana game edukasi dapat membantu mereka mengatasi masalah tersebut.
 
