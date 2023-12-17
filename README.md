@@ -13,4 +13,7 @@ Github Lengkap:
 - Draft paper publikasi (open/privat)
 
 [Topik Penelitian](https://github.com/linggarbp/Riset-Informatika/tree/main/tugas1)
+
 [Metode & Metodologi Penelitian](https://github.com/linggarbp/Riset-Informatika/tree/main/tugas2)
+
+[Analisis Penelitian](https://github.com/linggarbp/Riset-Informatika/tree/main/tugas3)
