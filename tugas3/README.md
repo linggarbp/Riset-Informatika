@@ -1,1 +1,2 @@
-
+## Confusion Matrix
+Untuk menguji aplikasi game, salah satu metrik yang dapat digunakan adalah confusion matrix. Confusion matrix adalah sebuah matriks yang digunakan untuk mengevaluasi performa model klasifikasi. Matriks ini membandingkan antara nilai prediksi dengan nilai aktual dari data inputan. Confusion matrix terdiri dari empat bagian, yaitu true positive, false positive, true negative, dan false negative. Dari matriks ini, kita dapat menghitung beberapa metrik evaluasi performa model klasifikasi, seperti precision, recall, accuracy, dan F1-score.
