@@ -18,4 +18,4 @@ Github Lengkap:
 
 [Analisis Penelitian](https://github.com/linggarbp/Riset-Informatika/tree/main/tugas3)
 
-[Referensi](https://github.com/linggarbp/Riset-Informatika/tree/main/referensi)
+[Referensi & Dataset](https://github.com/linggarbp/Riset-Informatika/tree/main/referensi)
