@@ -1,6 +1,4 @@
-# Tugas 2: Metode & Metodologi Penelitian
-
-## Contoh Paper
+## Paper
 
 **Metode**
 
