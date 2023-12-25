@@ -17,3 +17,5 @@ Github Lengkap:
 [Metode & Metodologi Penelitian](https://github.com/linggarbp/Riset-Informatika/tree/main/tugas2)
 
 [Analisis Penelitian](https://github.com/linggarbp/Riset-Informatika/tree/main/tugas3)
+
+[Referensi](https://github.com/linggarbp/Riset-Informatika/tree/main/referensi)
