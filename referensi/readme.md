@@ -1,6 +1,6 @@
 Berikut beberapa referensi tentang pengembangan game edukasi unity:
 
-1. **PENGEMBANGAN GAME EDUKASI MENGGUNAKAN UNITY 3D BERDISIPLIN BERSEPEDA DI JALAN RAYA PADA ANAK USIA 8-11 TAHUN** ¹: Penelitian ini membahas pengembangan game edukasi berbasis Unity 3D yang bertujuan untuk mengajarkan kedisiplinan bersepeda pada anak usia 8-11 tahun. Metode pengumpulan data yang digunakan adalah wawancara, pengamatan, dan angket. Hasil penelitian menunjukkan bahwa game edukasi ini layak digunakan sebagai sumber belajar pengetahuan kedisiplinan bersepeda pada anak.
+1. **[PENGEMBANGAN GAME EDUKASI MENGGUNAKAN UNITY 3D BERDISIPLIN BERSEPEDA DI JALAN RAYA PADA ANAK USIA 8-11 TAHUN]**(https://core.ac.uk/download/pdf/78033201.pdf) ¹: Penelitian ini membahas pengembangan game edukasi berbasis Unity 3D yang bertujuan untuk mengajarkan kedisiplinan bersepeda pada anak usia 8-11 tahun. Metode pengumpulan data yang digunakan adalah wawancara, pengamatan, dan angket. Hasil penelitian menunjukkan bahwa game edukasi ini layak digunakan sebagai sumber belajar pengetahuan kedisiplinan bersepeda pada anak.
 
 2. **PENGEMBANGAN GAME EDUKASI KLASIFIKASI KOMPONEN KOMPUTER BERBASIS ANDROID DENGAN TOOLS UNITY 3D GAME ENGINE** ²: Penelitian ini membahas pengembangan game edukasi berbasis Unity 3D yang bertujuan untuk mengajarkan klasifikasi komponen komputer pada siswa. Game edukasi ini dikembangkan dengan menggunakan tools Unity 3D Game Engine dan berbasis Android. Hasil pengujian menunjukkan bahwa game edukasi ini layak digunakan sebagai media pembelajaran klasifikasi komponen komputer.
 
@@ -10,7 +10,7 @@ Berikut beberapa referensi tentang pengembangan game edukasi unity:
 
 5. **PENGEMBANGAN APLIKASI GAME EDUKASI 3D FINDING GEOMETRY BERBASIS UNITY SEBAGAI MEDIA PEMBELAJARAN BANGUN RUANG MATEMATIKA** ⁵: Penelitian ini membahas pengembangan game edukasi berbasis Unity 3D yang bertujuan untuk mengajarkan bangun ruang matematika pada siswa. Game edukasi ini diberi nama "3D Finding Geometry" dan dikembangkan oleh Muhammad Fauzi dari Universitas Negeri Makassar. Hasil pengujian menunjukkan bahwa game edukasi ini layak digunakan sebagai media pembelajaran bangun ruang matematika.
 
-(1) PENGEMBANGAN GAME EDUKASI MENGGUNAKAN UNITY 3D BERDISIPLIN ... - CORE. https://core.ac.uk/download/pdf/78033201.pdf.
+(1) PENGEMBANGAN GAME EDUKASI MENGGUNAKAN UNITY 3D BERDISIPLIN ... - CORE. .
 (2) PENGEMBANGAN GAME EDUKASI KLASIFIKASI KOMPONEN KOMPUTER BERBASIS .... http://repository.unpkediri.ac.id/1584/.
 (3) Pengembangan Game Edukasi Tentang Budaya Nusantara “Tanara ... - UMK. https://jurnal.umk.ac.id/index.php/sitech/article/view/3907.
 (4) PENGEMBANGAN GAME EDUKASI “SUPER MATHRIO BROS” BERBASIS UNITY SEBAGAI .... https://ojs.cbn.ac.id/index.php/jukanti/article/view/760.
