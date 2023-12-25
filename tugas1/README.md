@@ -1,5 +1,3 @@
-# Tugas 1: Mencari Topik Penelitian
-
 ## Topik Penelitian
 
 Pengembangan game edukasi untuk meningkatkan kesadaran kesehatan mental mahasiswa menggunakan unity.
