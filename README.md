@@ -19,3 +19,5 @@ Github Lengkap:
 [Analisis Penelitian](https://github.com/linggarbp/Riset-Informatika/tree/main/tugas3)
 
 [Referensi & Dataset](https://github.com/linggarbp/Riset-Informatika/tree/main/referensi)
+
+[Coding Test](https://github.com/linggarbp/Riset-Informatika/tree/main/coding)
